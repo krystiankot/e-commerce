@@ -29,3 +29,9 @@ The programming goal is to create ecommerce system with features that every onli
 
 ## 4. Roadmap
 - division into microservices and main business distributed transactions scheme
+- microservices to implement:
+  - Identity Service
+  - Basket Service
+  - Sales Service
+  - Warehouse Service
+  - Billing Service
