@@ -35,3 +35,4 @@ The programming goal is to create ecommerce system with features that every onli
   - Sales Service
   - Warehouse Service
   - Billing Service
+  - Catalog Service
