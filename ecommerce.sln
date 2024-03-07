@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityService", "src\IdentityService\IdentityService.csproj", "{636D3710-4629-4EBA-9224-1C5BD6086F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{636D3710-4629-4EBA-9224-1C5BD6086F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636D3710-4629-4EBA-9224-1C5BD6086F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636D3710-4629-4EBA-9224-1C5BD6086F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636D3710-4629-4EBA-9224-1C5BD6086F51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
