@@ -34,6 +34,7 @@ The programming goal is to create ecommerce system with features that every onli
   - Basket Service
   - Sales Service
   - Warehouse Service
+  - Shipping Service
   - Payment Service
   - Invoice Service
   - Manufacture Service
