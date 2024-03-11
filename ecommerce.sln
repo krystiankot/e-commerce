@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketService", "src\Basket
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesService", "src\SalesService\SalesService.csproj", "{519AA8AD-A102-4D39-A234-DC0079C067F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManufactureService", "src\ManufactureService\ManufactureService.csproj", "{C979B05B-AF72-4F3C-A09B-52BBE1CEDEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{519AA8AD-A102-4D39-A234-DC0079C067F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{519AA8AD-A102-4D39-A234-DC0079C067F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{519AA8AD-A102-4D39-A234-DC0079C067F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C979B05B-AF72-4F3C-A09B-52BBE1CEDEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C979B05B-AF72-4F3C-A09B-52BBE1CEDEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C979B05B-AF72-4F3C-A09B-52BBE1CEDEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C979B05B-AF72-4F3C-A09B-52BBE1CEDEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
